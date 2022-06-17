@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/spookygifts/static/css/main.9865c041.chunk.css",
-    "main.js": "/spookygifts/static/js/main.efb945f4.chunk.js",
-    "main.js.map": "/spookygifts/static/js/main.efb945f4.chunk.js.map",
+    "main.js": "/spookygifts/static/js/main.60c1545c.chunk.js",
+    "main.js.map": "/spookygifts/static/js/main.60c1545c.chunk.js.map",
     "runtime-main.js": "/spookygifts/static/js/runtime-main.e3d0cb1b.js",
     "runtime-main.js.map": "/spookygifts/static/js/runtime-main.e3d0cb1b.js.map",
     "static/js/2.cc40629d.chunk.js": "/spookygifts/static/js/2.cc40629d.chunk.js",
     "static/js/2.cc40629d.chunk.js.map": "/spookygifts/static/js/2.cc40629d.chunk.js.map",
     "index.html": "/spookygifts/index.html",
-    "precache-manifest.c4c236e223ef85d3964a725de2429a82.js": "/spookygifts/precache-manifest.c4c236e223ef85d3964a725de2429a82.js",
+    "precache-manifest.276e1fa895b192b7f88fd696fc936bc6.js": "/spookygifts/precache-manifest.276e1fa895b192b7f88fd696fc936bc6.js",
     "service-worker.js": "/spookygifts/service-worker.js",
     "static/css/main.9865c041.chunk.css.map": "/spookygifts/static/css/main.9865c041.chunk.css.map",
     "static/js/2.cc40629d.chunk.js.LICENSE.txt": "/spookygifts/static/js/2.cc40629d.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.e3d0cb1b.js",
     "static/js/2.cc40629d.chunk.js",
     "static/css/main.9865c041.chunk.css",
-    "static/js/main.efb945f4.chunk.js"
+    "static/js/main.60c1545c.chunk.js"
   ]
 }

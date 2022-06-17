@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e0f5091f6c0aa5876f086d9754036364",
+    "revision": "bb808e9657897f47f48a900b6314fbf6",
     "url": "/spookygifts/index.html"
   },
   {
-    "revision": "8594f0243d916db731a5",
+    "revision": "da9d43992dc1f0989f9a",
     "url": "/spookygifts/static/css/main.9865c041.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/spookygifts/static/js/2.cc40629d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8594f0243d916db731a5",
-    "url": "/spookygifts/static/js/main.efb945f4.chunk.js"
+    "revision": "da9d43992dc1f0989f9a",
+    "url": "/spookygifts/static/js/main.60c1545c.chunk.js"
   },
   {
     "revision": "7e6512f22376abe71786",
