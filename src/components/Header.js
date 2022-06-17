@@ -12,7 +12,7 @@ function Header() {
 
     return (   
         <nav className="navbar position-sticky">
-            <img src="../../img/SpookyGiftsTempLogo.png" width="300px" className="d-inline-block align-top m-4" alt=""></img>
+            <img src="%PUBLIC_URL%/img/SpookyGiftsTempLogo.png" width="300px" className="d-inline-block align-top m-4" alt=""></img>
             {/* <div className="collapse navbar-collapse" id="navbarNav">
                 <div className="navbar-nav">
                     <Link className="nav-item nav-link" to={"./"}>for her</Link>
