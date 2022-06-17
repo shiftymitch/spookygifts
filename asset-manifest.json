@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/spookygifts/static/css/main.9865c041.chunk.css",
-    "main.js": "/spookygifts/static/js/main.4e405d76.chunk.js",
-    "main.js.map": "/spookygifts/static/js/main.4e405d76.chunk.js.map",
+    "main.js": "/spookygifts/static/js/main.e30bb840.chunk.js",
+    "main.js.map": "/spookygifts/static/js/main.e30bb840.chunk.js.map",
     "runtime-main.js": "/spookygifts/static/js/runtime-main.e3d0cb1b.js",
     "runtime-main.js.map": "/spookygifts/static/js/runtime-main.e3d0cb1b.js.map",
-    "static/js/2.873a87b0.chunk.js": "/spookygifts/static/js/2.873a87b0.chunk.js",
-    "static/js/2.873a87b0.chunk.js.map": "/spookygifts/static/js/2.873a87b0.chunk.js.map",
+    "static/js/2.cc40629d.chunk.js": "/spookygifts/static/js/2.cc40629d.chunk.js",
+    "static/js/2.cc40629d.chunk.js.map": "/spookygifts/static/js/2.cc40629d.chunk.js.map",
     "index.html": "/spookygifts/index.html",
-    "precache-manifest.789245032dc7234b9729bb478abbde45.js": "/spookygifts/precache-manifest.789245032dc7234b9729bb478abbde45.js",
+    "precache-manifest.a25e608667f40fa86f3798bae42ef413.js": "/spookygifts/precache-manifest.a25e608667f40fa86f3798bae42ef413.js",
     "service-worker.js": "/spookygifts/service-worker.js",
     "static/css/main.9865c041.chunk.css.map": "/spookygifts/static/css/main.9865c041.chunk.css.map",
-    "static/js/2.873a87b0.chunk.js.LICENSE.txt": "/spookygifts/static/js/2.873a87b0.chunk.js.LICENSE.txt"
+    "static/js/2.cc40629d.chunk.js.LICENSE.txt": "/spookygifts/static/js/2.cc40629d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e3d0cb1b.js",
-    "static/js/2.873a87b0.chunk.js",
+    "static/js/2.cc40629d.chunk.js",
     "static/css/main.9865c041.chunk.css",
-    "static/js/main.4e405d76.chunk.js"
+    "static/js/main.e30bb840.chunk.js"
   ]
 }
