@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/spookygifts/precache-manifest.276e1fa895b192b7f88fd696fc936bc6.js"
+  "/spookygifts/precache-manifest.33bda22d8fe1c40a81c14ad7f7384de5.js"
 );
 
 self.addEventListener('message', (event) => {
