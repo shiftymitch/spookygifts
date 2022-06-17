@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "60f490e4f2e024c186e4f078389431cf",
+    "revision": "2fbea43ac714c89ef5fdec9f998d990c",
     "url": "/spookygifts/index.html"
   },
   {
