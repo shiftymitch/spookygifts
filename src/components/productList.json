@@ -1,7 +1,7 @@
 [
     {
         "id": "1",
-        "img": "%PUBLIC_URL%/img/nanayo Makeup Coffin Shelf.jpg",
+        "img": "img/nanayo Makeup Coffin Shelf.jpg",
         "buy": "https://www.amazon.com/dp/B08MJ3DQLQ",
         "name": "Makeup Coffin Shelf",
         "view": "https://www.amazon.com/dp/B08MJ3DQLQ",
@@ -10,7 +10,7 @@
     },
     {
         "id": "2",
-        "img": "%PUBLIC_URL%/img/Coffin Letter Board.jpg",
+        "img": "img/Coffin Letter Board.jpg",
         "buy": "https://www.amazon.com/dp/B08P1DSW1L",
         "name": "Coffin Letter Board",
         "view": "https://www.amazon.com/dp/B08P1DSW1L",
@@ -19,7 +19,7 @@
     },
     {
         "id": "3",
-        "img": "%PUBLIC_URL%/img/Crescent Moon Shelf.jpg",
+        "img": "img/Crescent Moon Shelf.jpg",
         "buy": "https://www.amazon.com/dp/B08JG38VP8",
         "name": "Crescent Moon Shelf",
         "view": "https://www.amazon.com/dp/B08JG38VP8",
@@ -28,7 +28,7 @@
     },
     {
         "id": "4",
-        "img": "%PUBLIC_URL%/img/Black Rose In Glass Dome.jpg",
+        "img": "img/Black Rose In Glass Dome.jpg",
         "buy": "https://www.amazon.com/dp/B085H7VFDH",
         "name": "Black Rose In Glass Dome",
         "view": "https://www.amazon.com/dp/B085H7VFDH",
@@ -37,7 +37,7 @@
     },
     {
         "id": "5",
-        "img": "%PUBLIC_URL%/img/Bones and Skulls Candels.jpg",
+        "img": "img/Bones and Skulls Candels.jpg",
         "buy": "https://www.amazon.com/dp/B08F4QQG52",
         "name": "Bones and Skulls Candels",
         "view": "https://www.amazon.com/dp/B08F4QQG52",
@@ -46,7 +46,7 @@
     },
     {
         "id": "6",
-        "img": "%PUBLIC_URL%/img/Coffin Wall Hanger.jpg",
+        "img": "img/Coffin Wall Hanger.jpg",
         "buy": "https://www.amazon.com/dp/B08R5NV8TQ",
         "name": "Coffin Wall Hanger",
         "view": "https://www.amazon.com/dp/B08R5NV8TQ",
@@ -55,7 +55,7 @@
     },
     {
         "id": "7",
-        "img": "%PUBLIC_URL%/img/Coffin Picture Frame.jpg",
+        "img": "img/Coffin Picture Frame.jpg",
         "buy": "https://www.amazon.com/dp/B092VT7WYK",
         "name": "Coffin Picture Frame",
         "view": "https://www.amazon.com/dp/B092VT7WYK",
@@ -64,7 +64,7 @@
     },
     {
         "id": "8",
-        "img": "%PUBLIC_URL%/img/Skull Posters.jpg",
+        "img": "img/Skull Posters.jpg",
         "buy": "https://www.amazon.com/dp/B08V6Q97ZY",
         "name": "Skull Posters",
         "view": "https://www.amazon.com/dp/B08V6Q97ZY",
@@ -73,7 +73,7 @@
     },
     {
         "id": "9",
-        "img": "%PUBLIC_URL%/img/Bat Wine Bottle Opener.jpg",
+        "img": "img/Bat Wine Bottle Opener.jpg",
         "buy": "https://www.amazon.com/dp/B08J4GMWBR",
         "name": "Bat Wine Bottle Opener",
         "view": "https://www.amazon.com/dp/B08J4GMWBR",
@@ -82,7 +82,7 @@
     },
     {
         "id": "10",
-        "img": "%PUBLIC_URL%/img/Jason Funko Pop.jpg",
+        "img": "img/Jason Funko Pop.jpg",
         "buy": "https://www.amazon.com/dp/B004GFWBCU",
         "name": "Jason Funko Pop",
         "view": "https://www.amazon.com/dp/B004GFWBCU",
@@ -91,7 +91,7 @@
     },
     {
         "id": "12",
-        "img": "%PUBLIC_URL%/img/Zodiak Sign Coffin Backpack.jpg",
+        "img": "img/Zodiak Sign Coffin Backpack.jpg",
         "buy": "https://www.amazon.com/dp/B098T4Z4XZ",
         "name": "Zodiak Sign Coffin Backpack",
         "view": "https://www.amazon.com/dp/B098T4Z4XZ",
@@ -100,7 +100,7 @@
     },
     {
         "id": "13",
-        "img": "%PUBLIC_URL%/img/Bloody Knife Necklace.jpg",
+        "img": "img/Bloody Knife Necklace.jpg",
         "buy": "https://www.amazon.com/dp/B07WW3MVWF",
         "name": "Bloody Knife Necklace",
         "view": "https://www.amazon.com/dp/B07WW3MVWF",
@@ -109,7 +109,7 @@
     },
     {
         "id": "14",
-        "img": "%PUBLIC_URL%/img/Vampire Coffin Lamp.jpg",
+        "img": "img/Vampire Coffin Lamp.jpg",
         "buy": "https://www.amazon.com/dp/B014QAKXO2",
         "name": "Vampire Coffin Lamp",
         "view": "https://www.amazon.com/dp/B014QAKXO2",
@@ -118,7 +118,7 @@
     },
     {
         "id": "15",
-        "img": "%PUBLIC_URL%/img/Bats Wall Clock.jpg",
+        "img": "img/Bats Wall Clock.jpg",
         "buy": "https://www.amazon.com/dp/B07CTGN36N",
         "name": "Bats Wall Clock",
         "view": "https://www.amazon.com/dp/B07CTGN36N",
@@ -127,7 +127,7 @@
     },
     {
         "id": "16",
-        "img": "%PUBLIC_URL%/img/Spider Web Key Shelf.jpg",
+        "img": "img/Spider Web Key Shelf.jpg",
         "buy": "https://www.amazon.com/dp/B097L9JW5V",
         "name": "Spider Web Key Shelf",
         "view": "https://www.amazon.com/dp/B097L9JW5V",
@@ -136,7 +136,7 @@
     },
     {
         "id": "17",
-        "img": "%PUBLIC_URL%/img/Nightmare Before Christmas Crossbody Bag.jpg",
+        "img": "img/Nightmare Before Christmas Crossbody Bag.jpg",
         "buy": "https://www.amazon.com/dp/B07XNL7CWP",
         "name": "Nightmare Before Christmas Crossbody Bag",
         "view": "https://www.amazon.com/dp/B07XNL7CWP",
@@ -145,7 +145,7 @@
     },
     {
         "id": "18",
-        "img": "%PUBLIC_URL%/img/Skeleton Wine Glass Set.jpg",
+        "img": "img/Skeleton Wine Glass Set.jpg",
         "buy": "https://www.amazon.com/dp/B091JB6DWV",
         "name": "Skeleton Wine Glass Set",
         "view": "https://www.amazon.com/dp/B091JB6DWV",
@@ -154,7 +154,7 @@
     },
     {
         "id": "19",
-        "img": "%PUBLIC_URL%/img/Bat Hanging Crescent Moon Necklace.jpg",
+        "img": "img/Bat Hanging Crescent Moon Necklace.jpg",
         "buy": "https://www.amazon.com/dp/B09CP9NLP1",
         "name": "Bat Hanging Crescent Moon Necklace",
         "view": "https://www.amazon.com/dp/B09CP9NLP1",
@@ -163,7 +163,7 @@
     },
     {
         "id": "20",
-        "img": "%PUBLIC_URL%/img/Skull Tissue Box Cover.jpg",
+        "img": "img/Skull Tissue Box Cover.jpg",
         "buy": "https://www.amazon.com/dp/B08T1J3CDH",
         "name": "Skull Tissue Box Cover",
         "view": "https://www.amazon.com/dp/B08T1J3CDH",
@@ -172,7 +172,7 @@
     },
     {
         "id": "21",
-        "img": "%PUBLIC_URL%/img/Skeleton Pen Holder.jpg",
+        "img": "img/Skeleton Pen Holder.jpg",
         "buy": "https://www.amazon.com/dp/B08LP9W1DY",
         "name": "Skeleton Pen Holder",
         "view": "https://www.amazon.com/dp/B08LP9W1DY",
@@ -181,7 +181,7 @@
     },
     {
         "id": "22",
-        "img": "%PUBLIC_URL%/img/Skull Snake Lamp.jpg",
+        "img": "img/Skull Snake Lamp.jpg",
         "buy": "https://www.amazon.com/dp/B094NVG1W3",
         "name": "Skull Snake Lamp",
         "view": "https://www.amazon.com/dp/B094NVG1W3",
@@ -190,7 +190,7 @@
     },
     {
         "id": "23",
-        "img": "%PUBLIC_URL%/img/Coffin Butter Dish.jpg",
+        "img": "img/Coffin Butter Dish.jpg",
         "buy": "https://www.amazon.com/dp/B09V8D4GTH",
         "name": "Coffin Butter Dish",
         "view": "https://www.amazon.com/dp/B09V8D4GTH",
@@ -199,7 +199,7 @@
     },
     {
         "id": "24",
-        "img": "%PUBLIC_URL%/img/Skull Makeup Brush Holder.jpg",
+        "img": "img/Skull Makeup Brush Holder.jpg",
         "buy": "https://www.amazon.com/dp/B07T18CZFV",
         "name": "Skull Makeup Brush Holder",
         "view": "https://www.amazon.com/dp/B07T18CZFV",
@@ -208,7 +208,7 @@
     },
     {
         "id": "25",
-        "img": "%PUBLIC_URL%/img/Skull Book Ends.jpg",
+        "img": "img/Skull Book Ends.jpg",
         "buy": "https://www.amazon.com/dp/B094NTSN1C",
         "name": "Skull Book Ends",
         "view": "https://www.amazon.com/dp/B094NTSN1C",
@@ -217,7 +217,7 @@
     },
     {
         "id": "26",
-        "img": "%PUBLIC_URL%/img/Bat Vanity Cabinet Knobs.jpg",
+        "img": "img/Bat Vanity Cabinet Knobs.jpg",
         "buy": "https://www.amazon.com/dp/B08R6SBCMC",
         "name": "Bat Vanity Cabinet Knobs",
         "view": "https://www.amazon.com/dp/B08R6SBCMC",
@@ -226,7 +226,7 @@
     },
     {
         "id": "27",
-        "img": "%PUBLIC_URL%/img/Ghost In A Bottle.jpg",
+        "img": "img/Ghost In A Bottle.jpg",
         "buy": "https://www.amazon.com/dp/B08V11146X",
         "name": "Ghost In A Bottle",
         "view": "https://www.amazon.com/dp/B08V11146X",
@@ -235,7 +235,7 @@
     },
     {
         "id": "28",
-        "img": "%PUBLIC_URL%/img/Ghosts Cosmetic Bag.jpg",
+        "img": "img/Ghosts Cosmetic Bag.jpg",
         "buy": "https://www.amazon.com/dp/B08ZXVLFVS",
         "name": "Ghosts Cosmetic Bag",
         "view": "https://www.amazon.com/dp/B08ZXVLFVS",
@@ -244,7 +244,7 @@
     },
     {
         "id": "29",
-        "img": "%PUBLIC_URL%/img/Ghost Salt and Pepper Shakers.jpg",
+        "img": "img/Ghost Salt and Pepper Shakers.jpg",
         "buy": "https://www.amazon.com/dp/B07FT46QD2",
         "name": "Ghost Salt and Pepper Shakers",
         "view": "https://www.amazon.com/dp/B07FT46QD2",
